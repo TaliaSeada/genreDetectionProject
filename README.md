@@ -1,5 +1,5 @@
 # Genre Detection Project
-Predicting Song Genres using Convolutional Neural Networks.  
+Predicting Song Genres using Machine Learning and Convolutional Neural Networks.  
 
 In this study, we present a method for predicting the genre of a given song using convolutional neural networks (CNNs). Music genre classification is a 
 challenging task due to the complex and subjective nature of music. 
